@@ -1,0 +1,3 @@
+[submodule "RPi_Hat_Template"]
+	path = RPi_Hat_Template
+	url = git@github.com:neg2led/RPi_Hat_Template.git
