@@ -30,7 +30,7 @@
     (property "Value" "VYYYYMMDD" (id 1) (at -6.35 0 0)
       (effects (font (size 1.524 1.524)) (justify left))
     )
-    (property "Footprint" "SquantorLabels:Label_Generic" (id 2) (at 0 0 0)
+    (property "Footprint" "Footprints:Label_Generic" (id 2) (at 0 0 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0)

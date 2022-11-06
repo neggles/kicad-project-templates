@@ -30,7 +30,7 @@
   (tbtext "${COMMENT4}" (name "text17:Text") (pos 109 32))
   (line (name "segm9:Line") (start 90 8.5) (end 90 5.5))
   (line (name "segm10:Line") (start 26 8.5) (end 26 2))
-  (bitmap (name "bm1:Bitmap") (pos 259.0022 15.0072) (scale 1)
+  (bitmap (name "bm1:Bitmap") (pos 125.002 18.5072) (scale 1)
   (pngdata
     (data "89 50 4E 47 0D 0A 1A 0A 00 00 00 0D 49 48 44 52 00 00 01 2C 00 00 00 EC 08 06 00 00 00 CE E2 9B ")
     (data "75 00 00 00 04 73 42 49 54 08 08 08 08 7C 08 64 88 00 00 00 09 70 48 59 73 00 00 10 68 00 00 10 ")
