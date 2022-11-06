@@ -1,0 +1,19 @@
+(kicad_sch (version 20210621) (generator eeschema)
+
+  (uuid 342614df-f44c-451c-b91c-9380d59a7713)
+
+  (paper "A4")
+
+  (title_block
+    (title "JLCPCB Design")
+    (rev "1")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
