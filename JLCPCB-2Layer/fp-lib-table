@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name "Footprints")(type "KiCad")(uri "${KIPRJMOD}/OshPark-2Layer.pretty")(options "")(descr ""))
+  (lib (name "Footprints")(type "KiCad")(uri "${KIPRJMOD}/JLCPCB-2Layer.pretty")(options "")(descr ""))
 )
