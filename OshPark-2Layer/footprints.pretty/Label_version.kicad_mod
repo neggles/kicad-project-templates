@@ -6,7 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 009110da-fae2-454e-8387-1e8fd70409cb)
   )
-  (fp_text value "20190704" (at -0.4 -0.1) (layer "F.SilkS")
+  (fp_text value "YYYYMMDD" (at -0.4 -0.1) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp bdf9dfdb-3e3e-46cc-8bb8-4372561c164b)
   )
